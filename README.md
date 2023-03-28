@@ -8,3 +8,6 @@
 ## Links for the BootStrap UI projects
 - [Simple Website](https://github.com/anshulghogre4/Basic-Website-UI-Bootstrap)
 - [Recruitment Form](https://github.com/anshulghogre4/basic-form-ui-bootstrap)
+
+## Links for the HTML-CSS UI projects
+- [Websites](https://github.com/anshulghogre4/HTML-CSS-Project-Links)
